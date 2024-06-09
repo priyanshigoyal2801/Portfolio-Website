@@ -77,8 +77,9 @@ body {
 }
 
 .home-content p {
-    font-size: 16px;
+    font-size: 20px;
     margin: 20px 0 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .home-content .btn-box {
